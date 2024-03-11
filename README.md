@@ -6,7 +6,10 @@ This project contains windows scripts to get rid of Lenovo's LanSchool.
 - You will need administrator permissions to run this.
 
 ## Installation
-To install this script, clone the repository (or download the .zip), then double click the setuplanschool.bat.
+To install this script, clone the repository (or download the .zip), then double click the `setuplanschool.bat`.
+
+> [!IMPORTANT]
+> For `setuplanschool.bat` to work, `n.bat` **must** be contained in the same directory.
 
 This will automatically install the script, as well as set the LanSchool service to Manual, if LanSchool is not running.
 
